@@ -1,0 +1,20 @@
+body{
+    padding: 6em;
+    margin: 6em;
+    height: 600px;
+    background-color: pink;
+    align-items: center;
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+
+h2{
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
+    display: flexbox;
+    background-color: #fff;
+    color: burlywood;
+
+}
